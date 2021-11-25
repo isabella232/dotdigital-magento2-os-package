@@ -14,5 +14,8 @@
         "dotmailer/dotmailer-magento2-extension-sms": "1.3.0-RC1",
         "dotmailer/dotmailer-magento2-extension-graph-ql": "1.1.0-RC1",
         "dotmailer/dotmailer-magento2-extension-chat-graph-ql": "1.1.0-RC1"
+    },
+    "replace": {
+        "dotmailer/dotmailer-magento2-extension-package": "*"
     }
 }
