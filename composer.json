@@ -1,5 +1,5 @@
 {
-    "name": "dotdigital/dotdigital-magento2-community-package",
+    "name": "dotdigital/dotdigital-magento2-os-package",
     "description": "Dotdigital package for Magento Open Source",
     "type": "metapackage",
     "version": "1.0.0-RC1",
